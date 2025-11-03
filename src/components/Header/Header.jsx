@@ -7,7 +7,7 @@ export default function Header({ text }) {
       <h1 className="text-3xl font-extrabold">{text}</h1>
 
       <Logo text="Logo Header" />
-      <Generations text="Generasi Pokémon" />
+      <Generations text="Generasii Pokémon" />
     </div>
   );
 }
